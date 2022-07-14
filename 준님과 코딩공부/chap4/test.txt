@@ -1,0 +1,1 @@
+C:/Users/dhwjd/anaconda3/python.exe "c:/Users/dhwjd/Desktop/준님과 코딩공부/chap4/practice question.py"
